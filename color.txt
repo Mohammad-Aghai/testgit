@@ -3,5 +3,3 @@ blue
 green
 yellow
 pink
-black
-white
